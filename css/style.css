@@ -1,0 +1,15 @@
+body {
+	max-width: 75%;
+	margin: 0 auto;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E; 
+	/*color: red;*/
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+.small-image
+{
+	width: 50px;
+}
